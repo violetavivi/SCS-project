@@ -8,7 +8,7 @@ Issues: we can talk about problems or doubts.
 
 Pull request: when somebody want they part to be added to the master branch.
 
-Projects: I have created the man project. The every note can be converted into a new "project".
+Projects: I have created the main project. The every note can be converted into a new "project".
 
 Wiki: information and papers.
 
